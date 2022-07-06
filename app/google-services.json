@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705531784879",
+    "project_id": "recipes-easy-b94d0",
+    "storage_bucket": "recipes-easy-b94d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705531784879:android:25a0d9141826b5a935ee5a",
+        "android_client_info": {
+          "package_name": "com.example.recipeseasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705531784879-t68vo89hnhaoifteo7fcr08096kdmsi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipeseasy",
+            "certificate_hash": "667c16b284b49470cc757575f9c343e804c1d165"
+          }
+        },
+        {
+          "client_id": "705531784879-vqnlfvr3jqc89f0mf9urilv7gbb7d8n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohAG18ifVu1Og5UNMKJjNyZxm6UuWzn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705531784879-vqnlfvr3jqc89f0mf9urilv7gbb7d8n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

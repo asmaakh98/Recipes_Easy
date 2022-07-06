@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recipes Easy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="dish_name1">Dish Name</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_all_dishes">All Dishes</string>
+    <string name="title_favorite_dishes">Favorite</string>
+    <string name="category_name">Category name</string>
+    <string name="action_filter_dishes">Filter Dishes</string>
+    <string name="action_add_dish">Add Dish</string>
+</resources>
